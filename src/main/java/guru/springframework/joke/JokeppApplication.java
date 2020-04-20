@@ -8,6 +8,8 @@ public class JokeppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JokeppApplication.class, args);
+		
+		System.out.println();
 	}
 
 }
